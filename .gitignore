@@ -3,7 +3,5 @@
 .vscode
 __pycache__
 Ex1/__pycache__
-
 Ex2/build/*
-
 ./extern/*
