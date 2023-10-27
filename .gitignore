@@ -4,6 +4,6 @@
 ./__pycache__
 ./Ex1/__pycache__
 
-./Ex2/build
+./Ex2/build/*
 
-./extern
+./extern/*
