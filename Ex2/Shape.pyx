@@ -15,5 +15,6 @@ cdef class Triangle:
         self.a = a
         self.b = b
         self.c = c
+        self.d  = a
     def perimeter(self):
         return self.a + self.b + self.c
