@@ -13,6 +13,7 @@ cdef class Triangle:
     cdef double a, b, c
     def __init__(self, double a, double b, double c):
         self.a = a
+        self.a = a
         self.b = b
         self.c = c
         self.d  = a
