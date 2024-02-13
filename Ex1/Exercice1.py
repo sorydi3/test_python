@@ -17,7 +17,7 @@ def i_find(f, y, left, right):
     # Calculate the middle point
     mid = (right + left) // 2
 
-    # Calculate 'z' by evaluating the function 'f' at the middle point
+    # Calculate 'zz' by evaluating the function 'f' at the middle point
     z = f(mid)
 
     # If 'z' is equal to 'y', return the middle point 'mid'
