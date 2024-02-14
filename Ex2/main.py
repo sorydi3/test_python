@@ -6,7 +6,7 @@ def main():
     print(f"Triangle perimeter is "
     f"{my_triangle.perimeter()}")
     my_square = Square(3)
-    print(f"My square area is  {my_square.area()}")
+    print(f"My square area iiiis  {my_square.area()}")
 
 
 if __name__ == '__main__':
