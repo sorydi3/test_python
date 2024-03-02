@@ -5,7 +5,7 @@ class Test(unittest.TestCase):
     
     def test_find(self)->None:
         y = f(123456789)
-        z = y + 1e-8
+        z = y + 1e-9
         result=find(f,y,0,10000000000)
         result2=find(f,z,0,10000000000)
         self.assertEqual(result, 123456789)
